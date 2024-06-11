@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Eman-Abdallah/Markdown-Previewer/static/css/main.72d8018b.css",
+    "main.js": "/Eman-Abdallah/Markdown-Previewer/static/js/main.a696f7e0.js",
+    "static/js/453.cf94360e.chunk.js": "/Eman-Abdallah/Markdown-Previewer/static/js/453.cf94360e.chunk.js",
+    "index.html": "/Eman-Abdallah/Markdown-Previewer/index.html",
+    "main.72d8018b.css.map": "/Eman-Abdallah/Markdown-Previewer/static/css/main.72d8018b.css.map",
+    "main.a696f7e0.js.map": "/Eman-Abdallah/Markdown-Previewer/static/js/main.a696f7e0.js.map",
+    "453.cf94360e.chunk.js.map": "/Eman-Abdallah/Markdown-Previewer/static/js/453.cf94360e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72d8018b.css",
+    "static/js/main.a696f7e0.js"
+  ]
+}
